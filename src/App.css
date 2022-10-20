@@ -1,3 +1,19 @@
+main {
+  height: 80vh;
+}
+ul {
+  list-style: none;
+}
+.nav-item {
+  color: #fff;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  cursor: pointer;
+}
+.nav-item i {
+  margin-right: 0.2rem;
+}
+
 .App {
   text-align: center;
 }
